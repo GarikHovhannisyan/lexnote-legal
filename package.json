@@ -1,0 +1,15 @@
+{
+  "name": "lexnote-legal",
+  "version": "1.0.0",
+  "description": "LexNote Privacy Policy and Terms of Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
